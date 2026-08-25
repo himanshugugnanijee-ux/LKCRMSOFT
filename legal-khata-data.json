@@ -1,0 +1,571 @@
+{
+  "app": "Legal Khata Practice Manager",
+  "exportedAt": "2026-08-25T08:26:27.674Z",
+  "data": {
+    "users": [
+      {
+        "id": "2zu2x3nk",
+        "username": "a",
+        "password": "a",
+        "name": "HIMANSHU GUGNANI",
+        "role": "owner"
+      },
+      {
+        "id": "62oyap01",
+        "name": "KAUSHAL",
+        "username": "KAUSHAL",
+        "password": "KAUSHAL",
+        "role": "staff"
+      },
+      {
+        "id": "ffu35rzz",
+        "name": "SAVITRI",
+        "username": "SAVITRI",
+        "password": "SAVITRI",
+        "role": "staff"
+      },
+      {
+        "id": "2axfepu0",
+        "name": "Suraj Namdev",
+        "username": "surajjii",
+        "password": "Him@12345",
+        "role": "staff"
+      }
+    ],
+    "clients": [
+      {
+        "id": "06fsy22e",
+        "name": "AMIT HOSIERY INDUSTRIES",
+        "company": "AMIT SONI",
+        "mobile": "9818511611 / abhishek",
+        "email": "ramesh@example.com",
+        "address": "12 MG Road, Delhi",
+        "gstNo": "07CZIPS1642D1ZE",
+        "gstUserId": "Alfa98111",
+        "gstPassword": "Him@1234",
+        "ewayUserId": "",
+        "ewayPassword": "",
+        "whatsappGroupLink": "https://chat.whatsapp.com/Hzn9oEL035TCFvZTxnzGhW",
+        "fees": 12000,
+        "paid": 6000,
+        "feesPeriod": "Quarterly",
+        "onboardingDate": "2025-04-01",
+        "nextFollowup": "2026-01-15",
+        "teamLeaderId": "2axfepu0",
+        "assistantId": "ffu35rzz",
+        "notes": ""
+      },
+      {
+        "id": "q6mwifob",
+        "name": "SURINDER BHATEJA",
+        "company": "VARUN ENTERPRISE",
+        "mobile": "9818511611 / abhishek",
+        "email": "ramesh@example.com",
+        "address": "12 MG Road, Delhi",
+        "gstNo": "07AEAPB8070R1Z7",
+        "gstUserId": "VARUNENT1964",
+        "gstPassword": "Him@1234567",
+        "ewayUserId": "",
+        "ewayPassword": "",
+        "whatsappGroupLink": "https://chat.whatsapp.com/xxxx",
+        "fees": 12000,
+        "paid": 6000,
+        "feesPeriod": "Quarterly",
+        "onboardingDate": "2025-04-01",
+        "nextFollowup": "2026-01-15",
+        "teamLeaderId": "",
+        "assistantId": "62oyap01",
+        "notes": ""
+      },
+      {
+        "id": "iann91f7",
+        "name": "VARUN BHATEJA",
+        "company": "BHATEJA INDUSTRIES",
+        "mobile": "9818511611 / abhishek",
+        "email": "ramesh@example.com",
+        "address": "12 MG Road, Delhi",
+        "gstNo": "07BDFPB7808G1ZQ",
+        "gstUserId": "B.industries09",
+        "gstPassword": "Him@2589",
+        "ewayUserId": "Bhatejaind2021",
+        "ewayPassword": "Varun@1992",
+        "whatsappGroupLink": "https://chat.whatsapp.com/xxxx",
+        "fees": 12000,
+        "paid": 6000,
+        "feesPeriod": "Quarterly",
+        "onboardingDate": "2025-04-01",
+        "nextFollowup": "2026-01-15",
+        "teamLeaderId": "ffu35rzz",
+        "assistantId": "62oyap01",
+        "notes": ""
+      },
+      {
+        "id": "kgamxulm",
+        "name": "NEELAM BHATEJA",
+        "company": "NULITE INTERNATIONAL",
+        "mobile": "9818511611 / abhishek",
+        "email": "ramesh@example.com",
+        "address": "12 MG Road, Delhi",
+        "gstNo": "07AFAPB3071R1ZE",
+        "gstUserId": "nuliteinter",
+        "gstPassword": "Him@9495",
+        "ewayUserId": "nuliteinter",
+        "ewayPassword": "Him@123456",
+        "whatsappGroupLink": "https://chat.whatsapp.com/xxxx",
+        "fees": 12000,
+        "paid": 6000,
+        "feesPeriod": "Quarterly",
+        "onboardingDate": "2025-04-01",
+        "nextFollowup": "2026-01-15",
+        "teamLeaderId": "ffu35rzz",
+        "assistantId": "62oyap01",
+        "notes": ""
+      },
+      {
+        "id": "offziaes",
+        "name": "SHREE RAM TRADING",
+        "company": "SHREE RAM TRADING",
+        "mobile": "9818511611 / abhishek",
+        "email": "ramesh@example.com",
+        "address": "12 MG Road, Delhi",
+        "gstNo": "07AEXFS1764E1ZK",
+        "gstUserId": "shreeram3211",
+        "gstPassword": "Him@9495",
+        "ewayUserId": "shreeram3211",
+        "ewayPassword": "Him@3570",
+        "whatsappGroupLink": "https://chat.whatsapp.com/xxxx",
+        "fees": 12000,
+        "paid": 6000,
+        "feesPeriod": "Quarterly",
+        "onboardingDate": "2025-04-01",
+        "nextFollowup": "2026-01-15",
+        "teamLeaderId": "ffu35rzz",
+        "assistantId": "62oyap01",
+        "notes": ""
+      },
+      {
+        "id": "gkvafmux",
+        "name": "AASTHA FLORA/jagdeepflora",
+        "company": "R.S SERVICES",
+        "mobile": "9818511611 / abhishek",
+        "email": "ramesh@example.com",
+        "address": "12 MG Road, Delhi",
+        "gstNo": "07ELYPK7990E2Z6",
+        "gstUserId": "rsservices108",
+        "gstPassword": "Him@2589",
+        "ewayUserId": "9971711319",
+        "ewayPassword": "rstourandtravels108@gmail.com",
+        "whatsappGroupLink": "https://chat.whatsapp.com/xxxx",
+        "fees": 12000,
+        "paid": 6000,
+        "feesPeriod": "Quarterly",
+        "onboardingDate": "2025-04-01",
+        "nextFollowup": "2026-01-15",
+        "teamLeaderId": "dtzkb64w",
+        "assistantId": "ffu35rzz",
+        "notes": ""
+      },
+      {
+        "id": "s6atkli6",
+        "name": "NEELAM SHARMA",
+        "company": "K.S ELECTRICALS",
+        "mobile": "9818511611 / abhishek",
+        "email": "ramesh@example.com",
+        "address": "12 MG Road, Delhi",
+        "gstNo": "07BFFPS4632P1ZU",
+        "gstUserId": "kselectric_17",
+        "gstPassword": "Him@1234",
+        "ewayUserId": "ks$electric@",
+        "ewayPassword": "Him@12345",
+        "whatsappGroupLink": "https://chat.whatsapp.com/xxxx",
+        "fees": 12000,
+        "paid": 6000,
+        "feesPeriod": "Quarterly",
+        "onboardingDate": "2025-04-01",
+        "nextFollowup": "2026-01-15",
+        "teamLeaderId": "dtzkb64w",
+        "assistantId": "ffu35rzz",
+        "notes": ""
+      },
+      {
+        "id": "pfljpc6d",
+        "name": "KOMAL / ANIL JI WIFE",
+        "company": "AK RETAILS",
+        "mobile": "9818511611 / abhishek",
+        "email": "ramesh@example.com",
+        "address": "12 MG Road, Delhi",
+        "gstNo": "072300046683TRN",
+        "gstUserId": "akretails321",
+        "gstPassword": "Him@2569",
+        "ewayUserId": "",
+        "ewayPassword": "",
+        "whatsappGroupLink": "https://chat.whatsapp.com/xxxx",
+        "fees": 12000,
+        "paid": 6000,
+        "feesPeriod": "Quarterly",
+        "onboardingDate": "2025-04-01",
+        "nextFollowup": "2026-01-15",
+        "teamLeaderId": "62oyap01",
+        "assistantId": "ffu35rzz",
+        "notes": ""
+      },
+      {
+        "id": "lrvcsls9",
+        "name": "MAYANK GUPTA",
+        "company": "TECHNO FUNNEL",
+        "mobile": "9818511611 / abhishek",
+        "email": "ramesh@example.com",
+        "address": "12 MG Road, Delhi",
+        "gstNo": "07ABLPG3826C1ZY",
+        "gstUserId": "ablpg3826c_",
+        "gstPassword": "Him@2528",
+        "ewayUserId": "",
+        "ewayPassword": "",
+        "whatsappGroupLink": "https://chat.whatsapp.com/xxxx",
+        "fees": 12000,
+        "paid": 6000,
+        "feesPeriod": "Quarterly",
+        "onboardingDate": "2025-04-01",
+        "nextFollowup": "2026-01-15",
+        "teamLeaderId": "62oyap01",
+        "assistantId": "62oyap01",
+        "notes": ""
+      },
+      {
+        "id": "aoclinhi",
+        "name": "JYOTI PANWAR",
+        "company": "RJ ENTERPRISES",
+        "mobile": "99990676544",
+        "email": "07CAKPP6970J1Z0@GMAIL.COM",
+        "address": "DELHI",
+        "gstNo": "07CAKPP6970J1Z0",
+        "gstUserId": "07CAKPP6970J1Z0",
+        "gstPassword": "07CAKPP6970J1Z0",
+        "ewayUserId": "07CAKPP6970J1Z0",
+        "ewayPassword": "07CAKPP6970J1Z0",
+        "whatsappGroupLink": "",
+        "fees": 20000,
+        "paid": 0,
+        "feesPeriod": "Monthly",
+        "onboardingDate": "2026-08-23",
+        "nextFollowup": "",
+        "teamLeaderId": "dtzkb64w",
+        "assistantId": "ffu35rzz",
+        "notes": ""
+      },
+      {
+        "id": "dehdvyii",
+        "name": "MOHIT GUGNANI",
+        "company": "BRIGHTCORE ENTERPRISES PVT LTD",
+        "mobile": "9999064748",
+        "email": "mohit@gmail.com",
+        "address": "rohini",
+        "gstNo": "07BDGPT4343L1ZA",
+        "gstUserId": "gugnani@123",
+        "gstPassword": "gugnani",
+        "ewayUserId": "gugnani",
+        "ewayPassword": "gugnani",
+        "whatsappGroupLink": "",
+        "fees": 100000,
+        "paid": 0,
+        "feesPeriod": "Monthly",
+        "onboardingDate": "2026-08-31",
+        "nextFollowup": "",
+        "teamLeaderId": "dtzkb64w",
+        "assistantId": "62oyap01",
+        "notes": ""
+      },
+      {
+        "id": "juhircgd",
+        "name": "Sahil jain",
+        "company": "SAHIL PAPERS",
+        "mobile": "9311332342",
+        "email": "sahil@gmail.com",
+        "address": "Delhi",
+        "gstNo": "07ANVPJ2066R1Z3",
+        "gstUserId": "Sahil.18011992",
+        "gstPassword": "Him@1234",
+        "ewayUserId": "SAHILJAIN@109",
+        "ewayPassword": "Him@9495",
+        "whatsappGroupLink": "",
+        "fees": 2000,
+        "paid": 0,
+        "feesPeriod": "Monthly",
+        "onboardingDate": "2026-08-24",
+        "nextFollowup": "",
+        "notes": "",
+        "teamLeaderId": "dtzkb64w",
+        "assistantId": "dtzkb64w"
+      },
+      {
+        "id": "szyase5y",
+        "name": "Himanshu",
+        "company": "Jyotika overseas",
+        "mobile": "7048915155",
+        "email": "himanshugugnanijee@gmail.com",
+        "gstNo": "07BDGPG1843P1ZA",
+        "gstUserId": "soravgugnani",
+        "gstPassword": "Him@2589",
+        "ewayUserId": "krishna_3052",
+        "ewayPassword": "Him@12345",
+        "whatsappGroupLink": "https://chat.whatsapp.com/Bdge9vWvFDy0o6j2m7tM2K",
+        "fees": 10000,
+        "paid": 0,
+        "nextFollowup": "",
+        "notes": "",
+        "address": "G 22 376 377 SEC 7 ROHINI DELHI 110085",
+        "teamLeaderId": "62oyap01",
+        "assistantId": "62oyap01"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "ak9k6axu",
+        "title": "IEC REGISTRATION",
+        "client": "SUMIT PANJWAL",
+        "assignedTo": "2axfepu0",
+        "due": "",
+        "priority": "Normal",
+        "status": "Pending",
+        "created": "2026-08-24",
+        "feeAgreed": 2000,
+        "feeReceived": 500
+      },
+      {
+        "id": "l2kutsnt",
+        "title": "GSTR-3B",
+        "client": "AASTHA FLORA/jagdeepflora",
+        "assignedTo": "dtzkb64w",
+        "due": "",
+        "priority": "Normal",
+        "status": "Pending",
+        "created": "2026-08-24"
+      },
+      {
+        "id": "cngpbblw",
+        "title": "GSTR-3B",
+        "client": "NEELAM SHARMA",
+        "assignedTo": "dtzkb64w",
+        "due": "",
+        "priority": "Normal",
+        "status": "Pending",
+        "created": "2026-08-24"
+      },
+      {
+        "id": "pva681ma",
+        "title": "GSTR-3B",
+        "client": "JYOTI PANWAR",
+        "assignedTo": "dtzkb64w",
+        "due": "",
+        "priority": "Normal",
+        "status": "Pending",
+        "created": "2026-08-24"
+      },
+      {
+        "id": "48en0yio",
+        "title": "GSTR-3B",
+        "client": "MOHIT GUGNANI",
+        "assignedTo": "dtzkb64w",
+        "due": "",
+        "priority": "Normal",
+        "status": "Pending",
+        "created": "2026-08-24"
+      },
+      {
+        "id": "6br9durv",
+        "title": "GSTR-3B",
+        "client": "Sahil jain",
+        "assignedTo": "dtzkb64w",
+        "due": "",
+        "priority": "Normal",
+        "status": "Pending",
+        "created": "2026-08-24"
+      }
+    ],
+    "training": {
+      "ygjfro6r": {
+        "0": false,
+        "3": false,
+        "6": false
+      }
+    },
+    "videos": [
+      {
+        "id": "ce1qm0lx",
+        "title": "GSTR 1 - WITH DATA",
+        "url": "https://www.youtube.com/watch?v=OlyLjLbCGpI",
+        "note": "",
+        "added": "2026-08-25"
+      },
+      {
+        "id": "1jssnuq8",
+        "title": "NIL GSTR 1",
+        "url": "https://www.youtube.com/watch?v=JvcFaHwYLJc",
+        "note": "",
+        "added": "2026-08-25"
+      },
+      {
+        "id": "19y06pgn",
+        "title": "NIL GSTR 3B",
+        "url": "https://www.youtube.com/watch?v=iVb7XkeCEzE",
+        "note": "",
+        "added": "2026-08-25"
+      }
+    ],
+    "invoices": [
+      {
+        "id": "h28vu5vn",
+        "clientId": "06fsy22e",
+        "invoiceNo": "LK/2026-27/005",
+        "date": "2026-08-25",
+        "items": [
+          {
+            "id": "fuzxqgqp",
+            "desc": "GST RETURN FILLING",
+            "qty": 1,
+            "rate": "10000",
+            "amount": 10000
+          }
+        ],
+        "subtotal": 10000,
+        "grandTotal": 10000,
+        "advanceReceived": 5000,
+        "shipTo": "",
+        "notes": "",
+        "qrDataUri": "data:image/png;base64,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"
+      },
+      {
+        "id": "r7sndjx6",
+        "clientId": "06fsy22e",
+        "invoiceNo": "LK/2026-27/004",
+        "date": "2026-08-25",
+        "items": [
+          {
+            "id": "1srwb5ji",
+            "desc": "COMPANY FORMATION",
+            "qty": 1,
+            "rate": "14000",
+            "amount": 14000
+          }
+        ],
+        "subtotal": 14000,
+        "grandTotal": 14000,
+        "advanceReceived": 4000,
+        "shipTo": "",
+        "notes": "",
+        "qrDataUri": "data:image/png;base64,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"
+      },
+      {
+        "id": "4bjg3qo6",
+        "clientId": "06fsy22e",
+        "invoiceNo": "LK/2026-27/003",
+        "date": "2026-08-25",
+        "items": [
+          {
+            "id": "zjaxjww3",
+            "desc": "ITR FILLING ",
+            "qty": 1,
+            "rate": "1000",
+            "amount": 1000
+          },
+          {
+            "id": "350jbeev",
+            "desc": "GST RETURN FILLING ",
+            "qty": 1,
+            "rate": "10000",
+            "amount": 10000
+          }
+        ],
+        "subtotal": 11000,
+        "grandTotal": 11000,
+        "shipTo": "",
+        "notes": "PAYMENT NOT RECEIVED YET ",
+        "qrDataUri": "data:image/png;base64,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"
+      },
+      {
+        "id": "q4604gx0",
+        "clientId": "tvn1ffc7",
+        "invoiceNo": "LK/2026-27/002",
+        "date": "2026-08-24",
+        "items": [
+          {
+            "id": "a3bwid86",
+            "desc": "gst",
+            "qty": 1,
+            "rate": "5000000",
+            "amount": 5000000
+          }
+        ],
+        "subtotal": 5000000,
+        "grandTotal": 5000000,
+        "shipTo": "",
+        "notes": "",
+        "qrDataUri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAYAAAB5fY51AAAQAElEQVR4Aeyd0XLktg4F3ff//3mvma3NTmyJgIcURVKdMrNjAQIOGpPzxNr875f/SEACEliEwP8+/EcCEpDAIgQ0rEUWpUwJSODjQ8N60LfAUSWwOgENa/UNql8CDyKgYT1o2Y4qgdUJaFirb1D9EjgisOkzDWvTxTqWBHYkoGHtuFVnksCmBFKGBXzAc05m13A9j4yOHjlw/SwwT48MM6jrnaUG1HXCWvGIa8qwoiLbxR1IAhKYkoCGNeVaFCUBCRwR0LCOqPhMAhKYkoCGNeVaFDWOgJ1WIqBhrbQttUrg4QQ0rId/ARxfAisR0LBW2pZaJfBwAo2G9XB6ji8BCQwl0M2wfv369bHC6UU3mrVHH4gv/fXoE81S4lGfktN6oh4j49EsGS09akR9oh4zxaNZMvFuhpVpZo4EJCCBFgIaVgu9Z73rtBK4nYCGdfsKFCABCWQJaFhZUuZJQAK3E9Cwbl+BAiQwH4FZFWlYs25GXRKQwDcCGtY3JD6QgARmJTDMsCC+UwTtObOAHnX/BcYwi+bJcIe61kyNETqgrhP6xDPz9siBPnqhXqeH1qjGMMOKhOwUdxYJSOAaAhrWNVytKgEJXEBAw7oAqiUlIIFrCGhY13C16lMIOOdQAhrWUNw2k4AEWghoWC30fFcCEhhKQMMaittmEpBAC4F7DatFue9KQAKPI6BhvblyuP8SXUZ6dNGyxKE+C8TxjJadcgq31rMTj1GzaFijSNtHAhJoJqBhNSO0QI6AWRJoJ6BhtTO0ggQkMIiAhjUItG0kIIF2AhpWO0MrSEAC/yVw2W8a1mVoLSwBCfQmoGH1Jmo9CUjgMgIa1mVo48JQv98UV4gzoN4DiIt8ZkR3jj5Twp8eNcImiYRIR4knyoQpwAecn7CACd8IaFjfkNz+QAESkMAJAQ3rBIyPJSCB+QhoWPPtREUSkMAJAQ3rBIyPJTCCgD1+RkDD+hkvsyUggRsJaFg3wre1BCTwMwIa1s94mS0BCdxIYGnDupGbrSUggRsIDDOschlvxLmB4dstIx6ZwlGNTDzTJ8qB8wuSkItltEK9VqZGNEuJR3VKzionmqVXfASPYYY1Yhh7SEACexPQsPbe7z7TOYkEPgloWJ8Q/JGABNYgoGGtsSdVSkACnwQ0rE8I/khAAjMRONeiYZ2zMSIBCUxGQMOabCHKkYAEzgl0Myyo34+BOeLnKMZHoM4kowjaa2T69MiJ7vtAfRbgo0eNzCxQ15KpMSIH6jphnngPHt0Mq4cYa/QgYA0J7EtAw9p3t04mge0IaFjbrdSBJLAvAQ1r39062f4EHjehhvW4lTuwBNYloGGtuzuVS+BxBDSsx63cgSWwLoEnG9a6W1O5BB5KIGVY0WW93eKzfBcgvvQXaYX2GqUH1OuUnOhAe42oRyYOdR1AWAb4gPqJ/rsIm3wmRDV2i3+OXP1JGVa1gkEJSEACgwhoWINA2+ZeAnbfg4CGtccenUICjyCgYT1izQ4pgT0IaFh77NEpJPAIAinDegQJh5SABKYnoGFNvyIFSkACfwhoWH9I+KcEJDA9gZRhQf2CHDBkUCC8rBcJgbgGxDlRn5Xi/7l8+OtX+Ld6XpWfYQb13WRqZHJ6zBj1gfosME88miUTh3ieqE7KsKIixiUgAQmMIKBhjaBsDwlIoAsBDasLRotIYEUC62nWsNbbmYol8FgCGtZjV+/gEliPgIa13s5ULIHHEtCw3l69L0pAAqMJDDMsiO9gQD2nB5zM/ZpMn6hOjxpRj0w8o2NUDsyx3x7coD4LxPEM90hrjxpRjxKHPvNk9NZyhhlWTYQxCUhAAhkCGlaGkjlPJ+D8kxDQsCZZhDIkIIGYgIYVMzJDAhKYhICGNckilCEBCcQERhhWrMIMCUhAAgkCGlYCkikSkMAcBDSsOfagCglIIEEgZVjl4lh0ol7R+yXeowbEF9ygnlO0RCfSCvUeEMejHiUO9TrRHCVe6kQH6n3+vN/yZ9HSeqCuE/rEW+Yc/S60z5zZSzRXjxopw4qEGJeABCQwgoCGNYKyPSQggS4ENKwuGC0igQcSuGFkDesG6LaUgATeI6BhvcfNtyQggRsIaFg3QLelBCTwHgEN6z1u7W9ZQQIS+DGBYYYF8V2QSD2018jcBYExfaJ5R8UhnjfiNkpr1CfSWeJRjV7x0qv1QH03o7T26AP1WYCwzTDDCpWYIAEJSCAgoGEFgAxLoJ2AFXoR0LB6kbSOBCRwOQEN63LENpCABHoR0LB6kbSOBCRwOYEFDOtyBjaQgAQWIaBhLbIoZUpAAh8fGpbfAglIYBkC3QwL+IDzkyESXbLL1Ihy4Fwj/I5FNUocfufC8Z8lZ4YDx/rg7/NROqP9AtXvEPzVDO9/jnT0ikNdY4Z7pKVHjdIjU2eGnG6GNcMwapCABPYmoGHtvV+nk8BWBDSsrdbpMBJYh8A7SjWsd6j5jgQkcAsBDesW7DaVgATeIaBhvUPNdyQggVsIaFi3YG9vagUJPJFAyrCgfp8ECNmVux7RAar3cMImnwlRj0z8s0zzD9RnAT4iLc0ikgUiHSUelYJ43qhGJl601E6mBsRaoZ6T6VPTWWKZGlDXUepEp0cfqOsAwjaRzhKPiqQMKypiXAISkMAIAhrWCMr2kEALAd/9l4CG9S8KP0hAArMT0LBm35D6JCCBfwloWP+i8IMEJDA7gf0Na/YNqE8CEkgT0LDSqEyUgATuJqBh3b0B+0tAAmkCKcMqF7paD1C9FAp9LlJC3AfqOa2zZt+Huo7MFqNemRpQ1wFkykyQk5MQMSvxqBIQfp+hnhP1KPGipXag3gMoZcJT61FiYYHPBKDK5DOl+SdlWM1dLCABCUigAwENqwNES0hAAmMIaFhjONtFAhLoQODFsDpUs4QEJCCBCwloWBfCtbQEJNCXgIbVl6fVJCCBCwloWBfCnbi00iSwJAENa8m1KVoCzySQMiyoXwgDQnrl8ll0oiLR+73iQPUCHBBJDd+H+KIskKoD53kZJuEwiYRMHzjXCTGP0iMhpUtK6dV6IiFQ5wFEJcK/tbbMACzzPYoGThlWVMS4BCQwL4GdlGlYO23TWSSwOQENa/MFO54EdiKgYe20TWeRwOYENKxgwYYlIIF5CGhY8+xCJRKQQEBAwwoAGZaABOYhkDKscpcjOtFIEN8FmaVGNGuJR1pLTnSgziTqUeJRj5ITnahGicP1WqHeA+J4NGs1/hKEuBfUc17KHX4sXKMD9R4Qxw+bf3kY6fiSfvhrVAPataYM61CdDyUgAQkMJqBhDQZuOwlI4H0CGtb77HxTAhIYTKCfYQ0WbjsJSOB5BDSs5+3ciSWwLAENa9nVKVwCzyOgYT1v5x0mtoQE7iGgYd3D3a4SkMAbBIYZVnSprMShfrGs5EQH2mtkOEK9D8TxaJZMHOp9es0S1YG6DojjmXkjHZka0K4l0lHikZaSE50RNUqPSEcmDnWumRpRzjDDioQYl4AEpiQwlSgNa6p1KEYCEqgR0LBqdIxJQAJTEdCwplqHYiQggRoBDatGpz1mBQlIoCMBDasjTEtJQALXEtCwruVrdQlIoCOBYYYF9TsaQDgWEP4PIcudktqBuEYoZFACxFprs5YYtNcodXqMXOrUDrRr7aHz3Rp3vFfj+Sc2Steffmd/9tAxzLB6iLWGBCTwbAIa1rP37/QSWIqAhrXUuhQrgWcTmMawnr0Gp5eABDIENKwMJXMkIIEpCGhYU6xBERKQQIaAhpWhZE5fAlaTwJsENKw3wfmaBCQwnkA3w4L6pb+zy2Svz3uMD+06oF4D+HjVffS5xyxHdb8+g7rWr/lHv2e0Hr33+ixTI8p5rXf2OaqRiZ/Vfn0Oda6ZPlEO1HtAHI96ZONQ75Wtc3VeN8O6Wqj1JSCBFQn01axh9eVpNQlI4EICGtaFcC0tAQn0JaBh9eVpNQlI4EICGtaFcNtLW0ECEngloGG90vCzBCQwNQENa+r1KE4CEngl0M2wXu+wHH1+bXr2+ei912dn770+f80/+gz1+yYQ37EqdaFe51XT2Wdor3FW2+dtBMqOW0+k4Ev98G7fUX7Uo8Sh/j0DStoSp5thLTGtIiUggaUJaFhLr0/xEngWAQ3rWft2WgksTWAXw1p6CYqXgARyBDSsHCezJCCBCQhoWBMsQQkSkECOgIaV42TWRASU8lwCGtZzd+/kEliOQMqwgA9oOz3IHF2c+/oM6jq/5h/9ntF69F7vZ1CfBchIHZKTmT0SAoTfs6hGJg5xH6jnZPr0yIG6Dojjs+ymh46UYfUAbw0JSEACPybw5QUN6wsQf5WABOYloGHNuxuVSUACXwhoWF+A+KsEJDAvAQ1r3t20K7OCBDYjoGFttlDHkcDOBDSsnbfrbBLYjICGtdlCHeepBJ4xd8qwMhe+ohyIL7hBPSezkh46Mn2iHKjPAkQl3vobKL/OHzZJJgDVS53JMs1p0K7jK6Oj35uFfhaAdq2fZYb8HDF4fZYRAdfPmzKsjFhzJCABCVxNQMO6mrD1JSCBbgQ0rH9Q+i8JSGAFAhrWCltSowQk8A8BDesfDP5LAhJYgYCGtcKW1NiTgLUWJqBhLbw8pUvgaQSGGdbrnY6zzyPgn/V+fd5Dx2u9s89Qv7cC88QjJhBrjWpk4mcs/zyHWAfEOX/qnf0Jc9TIMINYa1TnjMPr86hGj/gww+oh1hoSkMCzCfzUsJ5Ny+klIIFbCWhYt+K3uQQk8BMCGtZPaJkrAQncSkDDuhX/3M1VJ4HZCGhYs21EPRKQwCkBDesUjQEJSGA2AhrWbBtRjwTuILBIz5RhQXzxDOo5PXhAvQcQtgGqfxEd5OJho0EJrxf3jj5nZBy999NnmT49cqC+n5/qPsuPtJ699/oc6lqjHiUO7TVKndYDdR1A+BdOtmoo76cMqyR6JCABCdxNQMO6ewP2l4AE0gQ0rDSqSqIhCUhgCAENawhmm0hAAj0IaFg9KFpDAhIYQkDDGoLZJvsQcJI7CWhYd9K3twQk8CMCKcN6vVvy7ueMqndrv74X9XnNbfkM8b0UqOf00AptPYoGqNcAStrlJ7OPSATQ5Z4dtNeJtGbm7ZET6cjEMzqgzizTJ8pJGVZUxLgEJCCBEQQGG9aIkewhAQnsSkDD2nWzziWBDQloWBsu1ZEksCsBDWvXzd4/lwok0J2AhtUdqQUlIIGrCGhYV5G1rgQk0J2AhtUdqQUl8DwCoyZOGRbUL4TBXvFR8KPLeBkdUY1e8YyWKAfq35Po/RKP5ik5I06ko8R76IB2ZhkdUO8DcbzMXDsZHVFOyrCiIsYlIAEJjCCgYY2gbA8JSKALAQ2rC8a2Ir4tAQnkCGhYOU5mSUACExDQsCZYghIkIIEcAQ0rx8ksCfQhYJUmAhpWEz5floAERhLoZli1+xczxXrBjWbK9IH63ZZRNTJ9opyIR4lHNaDOA4hKhP8zz6KjxwmFdEqItHZqJo0MLwAAA7hJREFUE5aJdJR4WKRDQjfD6qDFEhKQgASqBNYyrOooBiUggd0JaFi7b9j5JLARAQ1ro2U6igR2J6Bh7b7hZedTuAS+E9CwvjPxiQQkMCkBDWvSxShLAhL4TkDD+s7EJxKQwFgC6W7DDAv4gOtPevLGRKjPkilfLtvVTqbGSjm1WUtspVl6aIX6dwj6xDNaC//aydSIciCeJ6oxzLAiIcYlIAEJRAQ0rIiQcQlIYBoCGtY0q3hbiC9K4DEENKzHrNpBJbA+AQ1r/R06gQQeQ0DDesyqHXQHAk+fQcN6+jfA+SWwEAENa6FlKVUCTyegYb35DahdssvGIL5IB/WcN+V3fw3qOoGwZ4YbUL2AHDb5TIB6DeAzq/4DVHUA4d9+Wu+Qi2aYZSpBPA+05WR0RDmPMqwIhnEJSGBuAhrW3PtRnQQk8EJAw3qB4UcJSGBuAhrW3PtR3bsEfG9LAhrWlmt1KAnsSUDD2nOvTiWBLQloWFuu1aEksCeBY8Pac9blpsrcsYlyoO3uDPx+fwQ8+N0Lzv+MdMD5u/A7FjEr8ahPyYkO/O4Hx39GPTJxOK4Nf59n6vTIiXhk4pEODSsiZFwCEpiGgIY1zSoUIgEJRAQ0rIjQ9nEHlMA6BDSsdXalUgk8noCG9fivgAAksA4BDWudXalUAq0Eln9fw1p+hQ4ggecQ0LCes2snlcDyBIYZVubSWI+cWTYCfy/uwfHnSCscvwd/n0c1MvEM96hOpgb81Q3fP0c9SjzqU3KiA997w3+f9agRaZ0pHs07S3yYYc0ycIMOX5WABG4moGHdvADbS0ACeQIaVp6VmRKQwM0ENKybF2D7OQmoak4CGtace1GVBCRwQEDDOoDiIwlIYE4CGtace1GVBCRwQKCbYcHfeyww7+cDBm89gvqMmTs2bzX+8hK064B6DYjjX2Qd/pphEuUcFn55GL1f4i/pb38sdaIDdW6Z5lCvAX3iGS2tORBrjXp0M6yokXEJSEACrQQ0rFaCvi8BCQwjoGENQ71pI8eSwEACGtZA2LaSgATaCGhYbfx8WwISGEhAwxoI21YSWJvA/eo1rPt3oAIJSCBJQMNKgjJNAhK4n0DKsKILcrvFM2uJZu5RI+qRiY/SkekzS04vbtE8UZ/o/RKPaswUL3prJ6O19n6JpQyrJHpaCfi+BCTQSkDDaiXo+xKQwDACGtYw1DaSgARaCWhYrQR9XwLfCfjkIgIa1kVgLSsBCfQnoGH1Z2pFCUjgIgIa1kVgLSsBCfQn8H8AAAD//484adsAAAAGSURBVAMAlwnziTLRAAYAAAAASUVORK5CYII="
+      },
+      {
+        "id": "jgbr28ez",
+        "clientId": "szyase5y",
+        "invoiceNo": "LK/2026-27/001",
+        "date": "2026-08-24",
+        "items": [
+          {
+            "id": "7fl3pb7w",
+            "desc": "GST FILLING",
+            "hsn": "9982",
+            "qty": 1,
+            "rate": "1000000",
+            "amount": 1000000
+          }
+        ],
+        "subtotal": 1000000,
+        "grandTotal": 1000000,
+        "shipTo": "",
+        "notes": "",
+        "qrDataUri": "data:image/png;base64,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"
+      }
+    ],
+    "payments": [
+      {
+        "id": "gednt13f",
+        "clientId": "06fsy22e",
+        "date": "2026-08-25",
+        "amount": 5000,
+        "note": "Advance against invoice LK/2026-27/005"
+      },
+      {
+        "id": "2ng7eme4",
+        "clientId": "06fsy22e",
+        "date": "2026-08-25",
+        "amount": 4000,
+        "note": "Advance against invoice LK/2026-27/004"
+      },
+      {
+        "id": "kbye60pr",
+        "clientId": "gkvafmux",
+        "date": "2026-08-24",
+        "amount": 6000,
+        "note": ""
+      },
+      {
+        "id": "883c6iww",
+        "clientId": "gkvafmux",
+        "date": "2026-08-24",
+        "amount": 6000,
+        "note": ""
+      },
+      {
+        "id": "fwqtt0u6",
+        "clientId": "szyase5y",
+        "date": "2026-08-24",
+        "amount": 10000,
+        "note": "UPI"
+      }
+    ],
+    "discipline": {},
+    "permissions": {
+      "dtzkb64w": {
+        "canAddClient": false
+      }
+    }
+  }
+}
